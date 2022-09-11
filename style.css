@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(55, 106, 208);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+h1 {
+    margin: 0px 0px 20px 0px;
+}
+
+div {
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    width: 300px;
+    margin: 10px 0px;
+    font-size: 17px;
+}
+
+input[type="submit"] {
+    width: 325px;
+    background-color: rgb(55, 106, 208);
+    border: none;
+    color: white;
+}
+
+p {
+    color: red;
+    margin: 0px;
+    text-align: left;
+
+}
